@@ -14,5 +14,5 @@ function cracklePop() {
 		}
 	}
 }
-cracklePop();
+cracklePop(); // it calls the cracklePop function
 
